@@ -1,2 +1,2 @@
 # SoftwareEngineeringTest
- Software test
+ simly intro to the project
